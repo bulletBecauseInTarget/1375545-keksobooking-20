@@ -1,7 +1,7 @@
 # Личный проект «Кексобукинг» [![Build status][travis-image]][travis-url]
 
 * Студент: [Илья Быков](https://up.htmlacademy.ru/javascript/20/user/1375545).
-* Наставник: `Неизвестно`.
+* Наставник: [`Анастасия Рябчикова`](https://htmlacademy.ru/profile/id521463).
 
 ---
 
